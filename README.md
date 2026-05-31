@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Code Critic ⚡
 
 AI Code Critic is a professional, resume-worthy terminal utility built in Python that leverages state-of-the-art LLMs (Google Gemini and OpenAI) to review, explain, and analyze code files directly from the command line.
@@ -162,3 +163,7 @@ Here are visual examples of the CLI output in action:
     ![Code Health Score](screenshots/review_health_score.png)
 *   **Structured Test Case Generation (`testgen`)**:
     ![Test Case Generation](screenshots/test_case_generation.png)
+=======
+# code-critic-cli
+Code Critic CLI — A terminal-based AI developer assistant for code reviews, complexity analysis, explanations, and test case generation.
+>>>>>>> afe2572388f8b74d66bb803d3528be135ae6777d
